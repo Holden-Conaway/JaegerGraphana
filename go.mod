@@ -62,16 +62,16 @@ require (
 	go.opentelemetry.io/collector/processor/memorylimiterprocessor v0.97.0
 	go.opentelemetry.io/collector/receiver v0.97.0
 	go.opentelemetry.io/collector/receiver/otlpreceiver v0.97.0
-	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.50.0
-	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.50.0
-	go.opentelemetry.io/otel v1.25.0
+	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.51.0
+	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.51.0
+	go.opentelemetry.io/otel v1.26.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.25.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.25.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.25.0
 	go.opentelemetry.io/otel/exporters/stdout/stdouttrace v1.25.0
-	go.opentelemetry.io/otel/metric v1.25.0
+	go.opentelemetry.io/otel/metric v1.26.0
 	go.opentelemetry.io/otel/sdk v1.25.0
-	go.opentelemetry.io/otel/trace v1.25.0
+	go.opentelemetry.io/otel/trace v1.26.0
 	go.uber.org/automaxprocs v1.5.3
 	go.uber.org/goleak v1.3.0
 	go.uber.org/zap v1.27.0
